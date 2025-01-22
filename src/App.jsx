@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <p>Deployment</p>
+      <p>Deployment 2</p>
     </>
   )
 }
